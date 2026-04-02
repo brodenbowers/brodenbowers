@@ -1,5 +1,5 @@
 - Hi, I’m @brodenbowers
-- I’m interested in jet/rocket propulsion, satellite GNC, financial modeling and analysid
+- I’m interested in jet/rocket propulsion, financial modeling and analysis
 - https://www.broden.net
 
   
