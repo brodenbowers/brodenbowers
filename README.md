@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @brodenbowers
-- 👀 I’m interested in jet/rocket propulsion and satellite GNC
-- 🌱 I’m currently learning C++ and PyTorch, while working with BS4 for webscraping price changes of Counter-Strike ingame items
-- 📫 https://www.broden.net
-- 😄 Pronouns: he/him
-- ⚡ Fun facts: Enjoyer of tactical shooters like Valorant and CS, lover of the outdoors
+- Hi, I’m @brodenbowers
+- I’m interested in jet/rocket propulsion, satellite GNC, financial modeling and analysid
+- https://www.broden.net
+
   
 
 <!---
